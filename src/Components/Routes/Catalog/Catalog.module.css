@@ -1,0 +1,40 @@
+  
+  .main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .card_price_text{
+    color: #555;
+    font-weight: 700;
+    font-size: 20px;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+  }
+
+  .button_catalog{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+  }
+
+  button.catalog_button{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+  }
+
+  span.icon{
+    cursor: pointer;
+    transition: .4s ease;
+    color: #d2d2d2;
+    text-align: end;
+  }
+  
+  span.favorite_icon{
+    color: #198754;
+    transition: .4s ease;
+    cursor: pointer;
+  }

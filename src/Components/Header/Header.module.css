@@ -1,0 +1,29 @@
+.header{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #198754;
+  height: 70px;
+}
+
+.header_select{
+  margin: 5px;
+  outline: none;
+}
+
+
+input#search{
+  outline: none;
+  padding: 4px 4px 8px 4px;
+}
+
+
+.header a{
+  color: #fff;
+  text-decoration: none;
+}
+
+.header a:hover{
+  color: #fff;
+  text-decoration: none;
+}

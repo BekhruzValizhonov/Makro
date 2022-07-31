@@ -1,0 +1,17 @@
+table{
+    width: 50%;
+    margin: auto;
+}
+
+
+.button_basket{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+  }
+
+  button.card_button{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+  }

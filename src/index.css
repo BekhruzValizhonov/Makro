@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h6{
+  text-align: justify;
+}
+
+.food_flora{
+  position: absolute;
+  bottom: -5rem;
+}
+
+.sign_in{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 40vw;
+}
+
+span.basket_piece{
+  border: 1px solid;
+  padding: 0.3rem 1rem;
+  margin: 5px;
+}
+
+span.info_piece{
+  border: 1px solid;
+  padding: 0.2rem 1rem;
+  margin: 0 5px;
+}
+
+span.favorite_piece{
+  border: 1px solid;
+   padding: 0.3rem 1rem;
+    margin: 5px;
+}
+
